@@ -13,6 +13,7 @@ let arr = [1,2,3,4,5,6,7,8,9,10,11,12]
 let odds = arr.filter(n => n%2)
 console.log(odds)
 
+
 // print sum of all numbers in array using arrow function
 var numbers = [3, 5, 7, 2];
 var sum = numbers.reduce((x, y) => x + y);
